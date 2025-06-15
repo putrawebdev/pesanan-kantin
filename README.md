@@ -20,33 +20,43 @@ Architecture: MVC (Model-View-Controller)
 
 <h3>📱 Penggunaan</h3>
 1. Melihat Daftar Pesanan
-- Akses halaman utama untuk melihat tabel pesanan
-- Data ditampilkan dengan kolom: No, Nama, Product, Harga Product, dan Aksi
+<ul>
+    <li>Akses halaman utama untuk melihat tabel pesanan</li>
+    <li>Data ditampilkan dengan kolom: No, Nama, Product, Harga Product, dan Aksi</li>
+</ul>
 
 2. Menambah Pesanan Baru
-- Klik tombol "TAMBAH PESANAN"
-- Isi form dengan data:
-- Nama pemesan
-- Nama produk
-- Harga produk
-- Klik "Tambah" untuk menyimpan
+<ul>
+    <li>Klik tombol "TAMBAH PESANAN"</li>
+    <li>Isi form dengan data:</li>
+    <li>Nama pemesan</li>
+    <li>Nama produk</li>
+    <li>Harga produk</li>
+    <li>Klik "Tambah" untuk menyimpan</li>
+</ul>
 
 3. Mengedit Pesanan
-- Klik tombol "Edit" pada pesanan yang ingin diubah
-- Modifikasi data yang diperlukan
-- Klik "Simpan" untuk menyimpan perubahan
+<ul>
+    <li>Klik tombol "Edit" pada pesanan yang ingin diubah</li>
+    <li>Modifikasi data yang diperlukan</li>
+    <li>Klik "Simpan" untuk menyimpan perubahan</li>
+</ul>
 
 4. Menghapus Pesanan
-- Klik tombol "Hapus" pada pesanan yang ingin dihapus
-- Konfirmasi penghapusan data
+<ul>
+    <li>Klik tombol "Hapus" pada pesanan yang ingin dihapus</li>
+</ul>
+
 
 <h3>📄 License</h3>
 Project ini menggunakan [MIT license](https://opensource.org/licenses/MIT).
 
 <h3>👨‍💻 Developer</h3>
-- Nama: putrawebdev
-- Email: dakaagungputra@gmail.com
-- GitHub: github.com/putrawebdev
+<ul>
+    <li>Nama: putrawebdev</li>
+    <li>Email: dakaagungputra@gmail.com</li>
+    <li>GitHub: github.com/putrawebdev</li>
+</ul>
 
 <hr>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
