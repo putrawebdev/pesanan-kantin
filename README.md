@@ -5,27 +5,31 @@
 Sistem manajemen kantin sekolah yang dibuat menggunakan Laravel 12. Aplikasi ini memungkinkan pengelolaan pesanan makanan dan minuman di kantin sekolah dengan fitur CRUD (Create, Read, Update, Delete) yang lengkap.
 
 <h3>✨ Fitur Utama</h3> 
-- Tambah Pesanan: Menambahkan pesanan baru dengan data nama, produk, dan harga
-- List Pesanan: Menampilkan daftar semua pesanan dalam format tabel
-- Edit Pesanan: Mengubah informasi pesanan yang sudah ada
-- Hapus Pesanan: Menghapus pesanan dari sistem
-- Interface Responsif: Desain yang user-friendly dan mudah digunakan
+<ul>
+    <li>Tambah Pesanan: Menambahkan pesanan baru dengan data nama, produk, dan harga</li>
+    <li>List Pesanan: Menampilkan daftar semua pesanan dalam format tabel</li>
+    <li>Edit Pesanan: Mengubah informasi pesanan yang sudah ada</li>
+    <li>Hapus Pesanan: Menghapus pesanan dari sistem</li>
+    <li>Interface Responsif: Desain yang user-friendly dan mudah digunakan</li>
+</ul>
 
 <h3>🛠️ Teknologi yang Digunakan</h3>
-Framework: Laravel 12
-Database: MySQL/PostgreSQL
-Frontend: Blade Templates, Bootstrap/Tailwind CSS
-Backend: PHP 8.x
-Architecture: MVC (Model-View-Controller)
+<ul>
+    <li>Framework: Laravel 12</li>
+    <li>Database: MySQL</li>
+    <li>Frontend: Blade Templates, Bootstrap/Tailwind CSS</li>
+    <li>Backend: PHP 8.x</li>
+    <li>Architecture: MVC (Model-View-Controller)</li>
+</ul>
 
 <h3>📱 Penggunaan</h3>
-1. Melihat Daftar Pesanan
+1.Melihat Daftar Pesanan
 <ul>
     <li>Akses halaman utama untuk melihat tabel pesanan</li>
     <li>Data ditampilkan dengan kolom: No, Nama, Product, Harga Product, dan Aksi</li>
 </ul>
 
-2. Menambah Pesanan Baru
+2.Menambah Pesanan Baru
 <ul>
     <li>Klik tombol "TAMBAH PESANAN"</li>
     <li>Isi form dengan data:</li>
@@ -35,14 +39,14 @@ Architecture: MVC (Model-View-Controller)
     <li>Klik "Tambah" untuk menyimpan</li>
 </ul>
 
-3. Mengedit Pesanan
+3.Mengedit Pesanan
 <ul>
     <li>Klik tombol "Edit" pada pesanan yang ingin diubah</li>
     <li>Modifikasi data yang diperlukan</li>
     <li>Klik "Simpan" untuk menyimpan perubahan</li>
 </ul>
 
-4. Menghapus Pesanan
+4.Menghapus Pesanan
 <ul>
     <li>Klik tombol "Hapus" pada pesanan yang ingin dihapus</li>
 </ul>
